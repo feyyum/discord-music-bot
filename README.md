@@ -4,7 +4,7 @@
 Feyyum's Discord Music Bot is simple discord music bot. It fetches video link from youtube and stream in voice channel. You can easily use this bot.
 
 - Pull my repository
-- Create discord bot from [Discord Developer Protal](https://discord.com/developers/applications) and paste Bot Token to config.json.
+- Create discord bot from [Discord Developer Portal](https://discord.com/developers/applications) and paste Bot Token to config.json.
 - Create google developer account, create Google API and enable Youtube Data API from [Google Cloud Console](https://console.cloud.google.com/). And paste API Key to server.js.
 - ✨ Run the Bot
 
